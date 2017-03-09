@@ -1,0 +1,25 @@
+{
+  "name": "crypto-sha1",
+  "version": "0.1.0",
+  "description": "Node crypto sha1 hex.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --cache src",
+    "start": "node --harmony index.js"
+  },
+  "author": "@evanxsummers",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanx/crypto-sha1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evanx/crypto-sha1/issues"
+  },
+  "homepage": "https://github.com/evanx/crypto-sha1#readme"
+}
