@@ -1,5 +1,5 @@
 
-# crypto-sha1
+# crypto-sha1-hex
 
 Node crypto sha1 hex.
 
