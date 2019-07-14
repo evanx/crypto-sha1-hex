@@ -9,9 +9,11 @@
   },
   "author": "@evanxsummers",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.14"
+  },
   "devDependencies": {
-    "eslint": "^6.0.0"
+    "eslint": "^6.0.1"
   },
   "repository": {
     "type": "git",
