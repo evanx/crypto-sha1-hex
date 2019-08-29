@@ -10,10 +10,10 @@
   "author": "@evanxsummers",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "eslint": "^6.0.1"
+    "eslint": "^6.2.2"
   },
   "repository": {
     "type": "git",
